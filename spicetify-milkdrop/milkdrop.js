@@ -40,7 +40,7 @@
     quality: "low", renderScale: 0.5, fps: 30, gain: 1,
     source: "sim", sourceLabel: "", sourceChosen: false,
     cycle: 20, blend: 2, shuffle: true, favOnly: false, byTrack: false,
-    showTrack: true, pinTrack: false, showStats: false, adaptive: true,
+    showTrack: true, pinTrack: false, showStats: false, showToast: true, adaptive: true,
     favorites: [], hidden: [], lastPreset: "",
   });
   let S = loadSettings();
@@ -707,7 +707,7 @@
 
   // ---------------------------------------------------------------- UI
   function toast(text) {
-    if (!ui.toast) return;
+    if (!S.showToast || !ui.toast) return;
     ui.toast.textContent = text;
     ui.toast.classList.add("spmd-show");
     clearTimeout(toastTimer);
@@ -970,6 +970,7 @@
         ui.track.classList.toggle("spmd-show", v);
       }),
       check("showStats", "Show FPS stats", (v) => { S.showStats = v; save(); ui.stats.classList.toggle("spmd-show", v); }),
+      check("showToast", "Show preset change notification", (v) => { S.showToast = v; save(); }),
       h("button", {
         class: "spmd-btn spmd-reset", text: "Reset to defaults",
         onclick: () => {
