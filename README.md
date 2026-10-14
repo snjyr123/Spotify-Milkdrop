@@ -1,6 +1,9 @@
 # 🎵 Spotify MilkDrop Visualizer (Spicetify)
 
 A classic **MilkDrop** WebGL2 music visualizer built directly into Spotify Desktop via [Spicetify](https://spicetify.app/), powered by [Butterchurn](https://github.com/jberg/butterchurn). Designed for smooth performance and low GPU overhead—scaling cleanly from modern setups down to older hardware.
+<img width="1440" height="900" alt="Screenshot 2026-10-14 at 12 09 59 AM" src="https://github.com/user-attachments/assets/83527e94-6f0b-4388-b84c-4f45ad337ad1" />
+<img width="1440" height="900" alt="Screenshot 2026-10-14 at 12 10 31 AM" src="https://github.com/user-attachments/assets/c99cf640-84a2-4518-b398-bf9896298f4f" />
+<img width="1440" height="900" alt="Screenshot 2026-10-14 at 12 10 49 AM" src="https://github.com/user-attachments/assets/d66d3cf0-5fec-48eb-9e9f-595f86ed63cd" />
 
 ### Quick Navigation
 * **[🍎 macOS Setup Guide (MacBook / iMac)](#-macos-setup-guide-macbook--imac)**
