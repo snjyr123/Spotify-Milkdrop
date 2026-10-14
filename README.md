@@ -3,7 +3,11 @@
 A classic **MilkDrop** WebGL2 music visualizer built directly into Spotify Desktop via [Spicetify](https://spicetify.app/), powered by [Butterchurn](https://github.com/jberg/butterchurn). Designed for smooth performance and low GPU overhead—scaling cleanly from modern setups down to older hardware.
 <img width="1440" height="900" alt="Screenshot 2026-10-14 at 12 09 59 AM" src="https://github.com/user-attachments/assets/83527e94-6f0b-4388-b84c-4f45ad337ad1" />
 <img width="1440" height="900" alt="Screenshot 2026-10-14 at 12 10 31 AM" src="https://github.com/user-attachments/assets/c99cf640-84a2-4518-b398-bf9896298f4f" />
-<img width="1440" height="900" alt="Screenshot 2026-10-14 at 12 10 49 AM" src="https://github.com/user-attachments/assets/d66d3cf0-5fec-48eb-9e9f-595f86ed63cd" />
+<img width="1440" height="900" alt="Screenshot 2026-10-14 at 1 10 27 AM" src="https://github.com/user-attachments/assets/77424cb4-c5c1-44a8-84cc-0158cb293b77" />
+<img width="1440" height="900" alt="Screenshot 2026-10-14 at 1 09 56 AM" src="https://github.com/user-attachments/assets/39d0e685-b51a-4a8a-b7b8-817d60e2cfdd" />
+<img width="1440" height="900" alt="Screenshot 2026-10-14 at 1 09 34 AM" src="https://github.com/user-attachments/assets/9ebe8e6e-a9bf-403d-a88f-61137b81ab48" />
+<img width="1440" height="900" alt="Screenshot 2026-10-14 at 12 10 49 AM" src="https://github.com/user-attachments/assets/85bb9373-dcda-4047-825d-869b7f180d75" />
+
 
 ### Quick Navigation
 * **[🍎 macOS Setup Guide (MacBook / iMac)](#-macos-setup-guide-macbook--imac)**
